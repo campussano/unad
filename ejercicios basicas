@@ -1,0 +1,30 @@
+jercicios con operadores de comparación en Python
+Mayor que (>)
+Escribe un programa que pida al usuario dos números y determine si el primero es mayor que el segundo.
+
+Menor que (<)
+Pide al usuario dos números y muestra en pantalla si el primer número es menor que el segundo.
+
+Igualdad (==)
+Solicita al usuario que ingrese su edad y verifica si tiene exactamente 18 años.
+
+Diferente (!=)
+Pide al usuario un número y verifica si es diferente de 10.
+
+Mayor o igual que (>=)
+Pregunta al usuario su calificación en un examen y determina si aprobó (considerando que la nota mínima para aprobar es 70).
+
+Menor o igual que (<=)
+Escribe un programa que pida la edad del usuario y verifique si es menor o igual a 12 años para determinar si puede acceder a una entrada infantil en el cine.
+
+Comparación de cadenas
+Pide al usuario que ingrese dos palabras y verifica si son iguales.
+
+Comparar la longitud de dos listas
+Crea dos listas con elementos predefinidos y compara si tienen la misma cantidad de elementos.
+
+Verificar si un número está en un rango
+Pide al usuario un número y verifica si está entre 1 y 100 (incluyendo los extremos).
+
+Determinar si una persona puede votar
+Pregunta la edad del usuario y muestra un mensaje indicando si tiene la edad suficiente para votar (18 años o más).
